@@ -1,0 +1,12 @@
+{
+  "date": "uint32",
+  "day_of_week": "category",
+  "v_score": "uint8",
+  "h_score": "uint8",
+  "park_id": "category",
+  "length_minutes": "float32",
+  "h_game_number": "uint8",
+  "v_game_number": "uint8",
+  "attendance": "float32",
+  "v_hits": "float32"
+}
